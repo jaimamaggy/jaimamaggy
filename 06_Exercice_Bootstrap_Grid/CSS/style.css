@@ -1,0 +1,46 @@
+html,body
+    { margin:0;
+    padding: 0;
+    height: 100%; }
+.bg
+{
+    background-image: url("../img/bg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hauteur100
+    {
+    height: 100%;
+}
+hr{
+    padding-bottom:30px;
+    padding-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: hotpink;
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+.btn-danger {
+    background-color: hotpink;
+    border-color: hotpink;
+}
+
+.bgcolor {
+    background-color: hotpink;
+    color: white;
+}
+
+.bordercolor {
+    border-color: white;
+}
+
+.padding{
+    padding: 50px;
+}
