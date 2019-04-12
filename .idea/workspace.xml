@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdce70d2-80d2-43e1-bf7d-c3cc7229b517" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07_Exercise_Facebook/HTML/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/07_Exercise_Facebook/HTML/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo 2/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Han Solo 2/Laboratoire Han Solo.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Han Solo 2/Laboratoire Han Solo.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +18,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/07_Exercise_Facebook/HTML/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            <state relative-caret-position="495">
+              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_Exercise_Facebook/CSS/Style.css">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -83,12 +81,6 @@
               <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
               <item name="07_Exercise_Facebook" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
-              <item name="07_Exercise_Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -107,11 +99,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07_Exercise_Facebook/CSS" />
       <recent name="$PROJECT_DIR$/07_Exercise_Facebook/HTML" />
       <recent name="$PROJECT_DIR$/07_Exercise_Facebook/Index" />
       <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/IMG" />
       <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid" />
-      <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/JS" />
@@ -148,12 +140,12 @@
       <workItem from="1553456105520" duration="1000" />
       <workItem from="1553457317427" duration="1462000" />
       <workItem from="1554425984689" duration="17897000" />
-      <workItem from="1555021862386" duration="6074000" />
+      <workItem from="1555021862386" duration="8211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33007000" />
+    <option name="totallyTimeSpent" value="35144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="799" extended-state="6" />
@@ -280,9 +272,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_Exercise_Facebook/CSS/Style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Han Solo 2/HTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -290,17 +279,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/07_Exercise_Facebook/CSS/Style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="17" />
+        <state relative-caret-position="330">
+          <caret line="81" column="10" lean-forward="true" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07_Exercise_Facebook/HTML/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="495">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
         </state>
       </provider>
     </entry>
