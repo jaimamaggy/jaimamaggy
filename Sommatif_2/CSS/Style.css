@@ -19,3 +19,13 @@ html,body{
 .carreGris{
     background-color: rgba(255,255,255,.5);
 }
+.espaceBas{
+    padding-bottom: 50px;
+}
+.parallaxbg {
+    background-image: url("../IMG/Afrique/zebras.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
