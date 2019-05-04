@@ -1,0 +1,21 @@
+html,body{
+    margin:0;
+    height: 100%;
+}
+
+.parallax {
+    background-image: url("../img/Afrique/021afri2019.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    .carreJaune{
+        background-color: rgba(224, 217, 29,.5);
+
+    }
+
+.carreGris{
+    background-color: rgba(255,255,255,.5);
+}
