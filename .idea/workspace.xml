@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdce70d2-80d2-43e1-bf7d-c3cc7229b517" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/CSS/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_Exercise_Facebook/HTML/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/07_Exercise_Facebook/HTML/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sommatif_2/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Sommatif_2/CSS/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sommatif_2/HTML/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sommatif_2/Index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,16 +14,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Sommatif_2/HTML/Index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sommatif_2/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="240">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sommatif_2/CSS/Style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -82,10 +80,10 @@
         <option value="$PROJECT_DIR$/Sommatif_2/CSS.css" />
         <option value="$PROJECT_DIR$/Sommatif_2/Style.css" />
         <option value="$PROJECT_DIR$/Sommatif_2/Bootstrap.js" />
-        <option value="$PROJECT_DIR$/Sommatif_2/Index.html" />
         <option value="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/CSS/style.css" />
         <option value="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html" />
         <option value="$PROJECT_DIR$/Sommatif_2/HTML/Index.html" />
+        <option value="$PROJECT_DIR$/Sommatif_2/Index.html" />
         <option value="$PROJECT_DIR$/Sommatif_2/CSS/Style.css" />
       </list>
     </option>
@@ -126,12 +124,6 @@
               <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
               <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
               <item name="Sommatif_2" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
-              <item name="Sommatif_2" type="462c0819:PsiDirectoryNode" />
               <item name="IMG" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -151,17 +143,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/07_Exercise_Facebook/CSS" />
-      <recent name="$PROJECT_DIR$/07_Exercise_Facebook/HTML" />
-      <recent name="$PROJECT_DIR$/07_Exercise_Facebook/Index" />
-      <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/IMG" />
-      <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/JS" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/CSS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Sommatif_2" />
+      <recent name="$PROJECT_DIR$/07_Exercise_Facebook/CSS" />
+      <recent name="$PROJECT_DIR$/07_Exercise_Facebook/HTML" />
+      <recent name="$PROJECT_DIR$/07_Exercise_Facebook/Index" />
+      <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/IMG" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -196,12 +188,12 @@
       <workItem from="1555021862386" duration="9006000" />
       <workItem from="1555974963425" duration="2000" />
       <workItem from="1556840371209" duration="5000" />
-      <workItem from="1556840391242" duration="9026000" />
+      <workItem from="1556840391242" duration="9509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44972000" />
+    <option name="totallyTimeSpent" value="45455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="799" extended-state="0" />
@@ -373,13 +365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -393,17 +378,24 @@
     <entry file="file://$PROJECT_DIR$/Sommatif_2/IMG/Afrique/021afri2019.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sommatif_2/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Sommatif_2/CSS/Style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif_2/HTML/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
