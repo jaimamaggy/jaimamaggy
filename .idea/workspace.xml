@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdce70d2-80d2-43e1-bf7d-c3cc7229b517" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Projet_Final/CSS/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projet_Final/CSS/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projet_Final/JS/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projet_Final/JS/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projet_Final/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sommatif_2/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sommatif_2/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Final/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Final/CSS/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Final/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Projet_Final/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+            <state relative-caret-position="473">
+              <caret line="73" column="14" lean-forward="true" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -31,26 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projet_Final/CSS/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercice Parallax Thetford/indexVideo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="62" column="43" lean-forward="true" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercice Parallax Thetford/CSS/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -214,12 +191,12 @@
       <workItem from="1555021862386" duration="9006000" />
       <workItem from="1555974963425" duration="2000" />
       <workItem from="1556840371209" duration="5000" />
-      <workItem from="1556840391242" duration="38681000" />
+      <workItem from="1556840391242" duration="39760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74627000" />
+    <option name="totallyTimeSpent" value="75706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="799" extended-state="6" />
@@ -422,13 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projet_Final/CSS/Style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercice Parallax Thetford/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -443,10 +413,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Projet_Final/CSS/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Projet_Final/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+        <state relative-caret-position="473">
+          <caret line="73" column="14" lean-forward="true" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
         </state>
       </provider>
     </entry>
