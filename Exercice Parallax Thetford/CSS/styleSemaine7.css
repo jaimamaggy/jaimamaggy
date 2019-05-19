@@ -1,0 +1,11 @@
+.bg-light {
+    background-color: lightsteelblue !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: red;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: darkred;
+}

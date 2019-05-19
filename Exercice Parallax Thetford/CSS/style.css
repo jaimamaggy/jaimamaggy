@@ -1,0 +1,41 @@
+html,body {
+    height:100%;
+}
+
+.parallaxAccueil{
+    background-image: url(../medias/sw.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.yellow{
+    background-color: rgba(255,255,0,.5);
+    color: white;
+}
+
+.gris{
+    background-color: rgba(144,142,145,0.5);
+    color:white;
+}
+
+.parallaxZone3{
+    background-image: url(../medias/sw2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.paddingZone3{
+    padding-top: 144px;
+    padding-bottom: 144px;
+}
+
+.parallaxZone4{
+    background-image: url(../medias/bball.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
