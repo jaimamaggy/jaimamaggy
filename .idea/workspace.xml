@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdce70d2-80d2-43e1-bf7d-c3cc7229b517" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Projet_Final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Final/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/CSS/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/Font/big_noodle_titling.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/IMG./Header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/IMG./Hero-spain-walking.adapt.1900.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/IMG./Portfolio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/IMG./Portfolio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/IMG./Portfolio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/IMG./Portfolio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/IMG./Portfolio-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/IMG./Portfolio-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/IMG./Saint-Jacques-de-Compostelle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/IMG./The_Way.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/JS/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/JS/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projet_Final_IW2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,19 +29,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Projet_Final/index.html">
+        <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="225">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projet_Final/CSS/Style.css">
+        <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+            <state relative-caret-position="143">
+              <caret line="122" column="26" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -68,14 +84,16 @@
         <option value="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html" />
         <option value="$PROJECT_DIR$/Projet_Final/CSS/Style.css" />
         <option value="$PROJECT_DIR$/Projet_Final/index.html" />
+        <option value="$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css" />
+        <option value="$PROJECT_DIR$/Projet_Final_IW2/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="173" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="799" />
   </component>
@@ -85,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,36 +114,12 @@
             <path>
               <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
               <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice Parallax Thetford" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
-              <item name="Projet_Final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
-              <item name="Projet_Final" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
-              <item name="Projet_Final" type="462c0819:PsiDirectoryNode" />
-              <item name="Font" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
-              <item name="Projet_Final" type="462c0819:PsiDirectoryNode" />
-              <item name="IMG." type="462c0819:PsiDirectoryNode" />
+              <item name="Projet_Final_IW2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,19 +132,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Projet_Final/JS" />
-      <recent name="$PROJECT_DIR$/Projet_Final/CSS" />
-      <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/JS" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/CSS" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Projet_Final" />
       <recent name="$PROJECT_DIR$/Sommatif_2" />
       <recent name="$PROJECT_DIR$/07_Exercise_Facebook/CSS" />
       <recent name="$PROJECT_DIR$/07_Exercise_Facebook/HTML" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Projet_Final/JS" />
+      <recent name="$PROJECT_DIR$/Projet_Final/CSS" />
+      <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/JS" />
+      <recent name="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/CSS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -184,18 +179,19 @@
       <workItem from="1555021862386" duration="9006000" />
       <workItem from="1555974963425" duration="2000" />
       <workItem from="1556840371209" duration="5000" />
-      <workItem from="1556840391242" duration="43475000" />
+      <workItem from="1556840391242" duration="43636000" />
+      <workItem from="1558479928282" duration="1681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79421000" />
+    <option name="totallyTimeSpent" value="81263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="799" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26895565" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2725322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -300,22 +296,9 @@
     <entry file="file://$PROJECT_DIR$/07_Exercise_Facebook/CSS/Style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif_2/CSS.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif_2/Style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif_2/Bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif_2/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Sommatif_2/CSS.css" />
+    <entry file="file://$PROJECT_DIR$/Sommatif_2/Style.css" />
+    <entry file="file://$PROJECT_DIR$/Sommatif_2/Bootstrap.js" />
     <entry file="file://$PROJECT_DIR$/Sommatif_2/IMG/iceland-northern-lights-waterfall.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -399,13 +382,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projet_Final/CSS/Style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercice Parallax Thetford/indexVideo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -413,10 +389,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Projet_Final/CSS/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/JS/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Projet_Final/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="357">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="122" column="26" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
