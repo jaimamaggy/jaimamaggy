@@ -15,24 +15,56 @@
 
     <nav class="navbar navbar-expand-lg fixed-top">
         <a class="navbar-brand" href="#">
-            <img src=".../IMG./Logo6.jpg">
+            <img src="IMG./Logo4.jpg" width="50">
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <div class="navbar-nav">
-                <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a> <a class="nav-item nav-link" href="#">Features</a>
-                <a class="nav-item nav-link" href="#">Pricing</a>
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Dropdown link
+                        </a>
+                        <!---menu déroulant--->
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                        <!---menu déroulant--->
+                    </li>
+                </ul>
+                <!---menu horrizontale--->
+                <a class="nav-item nav-link" href="#Blogue">Blogue</a>
+                <a class="nav-item nav-link" href="#A propos">A propos</a>
+                <a class="nav-item nav-link" href="#Portfolio">Portfolio</a>
+                <a class="nav-item nav-link" href="#Vidéo">Vidéo</a>
+                <!---menu horrizontale--->
 
+                <!---Icone --->
+                <li class="nav-item">
+                    <a class="nav-link p-2" href="" target="_blank"></a>
+                <i class="fab fa-facebook-f"></i>
+                </li>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-aviato"></i>
+                </from>
+                <!---Icone --->
             </div>
         </div>
+
     </nav>
+
 
 </Section>
 
 <!-- Zone 1  -->
-<section></section>
+<section id=Accueil class="h-100">
 
 <div class="container-fluid parallax h-100 ">
         <div class="row h-100 text-center align-items-center no-gutters">
@@ -42,8 +74,10 @@
         </div>
 </div>
 
+</section>
 
 <!--Zone 2 -->
+<section id="Blogue">
 
 <div class="container-fluid">
     <div class="row align-items-center text-center">
@@ -74,8 +108,10 @@
         </div>
     </div>
 </div>
+</section>
 
 <!-- Zone 3  -->
+<section id="A propos" class="h-100">
 
 <div class="container-fluid parallaxZone3 h-100">
     <div class="row no-gutters">
@@ -85,8 +121,11 @@
         </div>
     </div>
 </div>
+</section>
 
 <!-- Zone 4  -->
+<section id="Portfolio">
+
 <div class="container-fluid">
     <div class="row no-gutters">
         <div class="col-xl-4 col-md-6 col-12">
@@ -104,9 +143,10 @@
 
     </div>
 </div>
+</section>
 
 <!-- Zone 5  -->
-
+<section id="Vidéo">
 <div class="container text-center padding youtube">
     <div class="row ">
         <div class="col-12">
@@ -119,7 +159,7 @@
         <source src="IMG./The_Way.mp4">
 </video>
 </div>
-
+</section>
 
 <script src="JS/jquery-3.3.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
