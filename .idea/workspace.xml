@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cdce70d2-80d2-43e1-bf7d-c3cc7229b517" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Final_IW2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Final_IW2/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="122" column="10" lean-forward="true" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
+            <state relative-caret-position="349">
+              <caret line="124" column="10" lean-forward="true" selection-start-line="124" selection-start-column="10" selection-end-line="124" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -24,8 +25,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="270" column="1" lean-forward="true" selection-start-line="270" selection-start-column="1" selection-end-line="270" selection-end-column="1" />
+            <state relative-caret-position="585">
+              <caret line="290" column="1" lean-forward="true" selection-start-line="290" selection-start-column="1" selection-end-line="290" selection-end-column="1" />
+              <folding>
+                <element signature="e#3015#3069#0" />
+                <element signature="e#3123#3157#0" />
+                <element signature="e#3463#3517#0" />
+                <element signature="e#3541#3571#0" />
+                <element signature="e#3631#3665#0" />
+                <element signature="e#3710#3733#0" />
+                <element signature="e#3781#3811#0" />
+                <element signature="e#3833#3856#0" />
+                <element signature="e#3884#3907#0" />
+                <element signature="e#3909#4369#0" />
+                <element signature="e#4371#4831#0" />
+                <element signature="e#4833#5293#0" />
+                <element signature="e#5295#5756#0" />
+                <element signature="e#5821#5844#0" />
+                <element signature="e#5984#6007#0" />
+                <element signature="e#6078#6132#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -183,12 +202,12 @@
       <workItem from="1556840371209" duration="5000" />
       <workItem from="1556840391242" duration="43636000" />
       <workItem from="1558479928282" duration="8141000" />
-      <workItem from="1559404077555" duration="12995000" />
+      <workItem from="1559404077555" duration="13285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100718000" />
+    <option name="totallyTimeSpent" value="101008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="799" extended-state="0" />
@@ -433,15 +452,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="270" column="1" lean-forward="true" selection-start-line="270" selection-start-column="1" selection-end-line="270" selection-end-column="1" />
+        <state relative-caret-position="585">
+          <caret line="290" column="1" lean-forward="true" selection-start-line="290" selection-start-column="1" selection-end-line="290" selection-end-column="1" />
+          <folding>
+            <element signature="e#3015#3069#0" />
+            <element signature="e#3123#3157#0" />
+            <element signature="e#3463#3517#0" />
+            <element signature="e#3541#3571#0" />
+            <element signature="e#3631#3665#0" />
+            <element signature="e#3710#3733#0" />
+            <element signature="e#3781#3811#0" />
+            <element signature="e#3833#3856#0" />
+            <element signature="e#3884#3907#0" />
+            <element signature="e#3909#4369#0" />
+            <element signature="e#4371#4831#0" />
+            <element signature="e#4833#5293#0" />
+            <element signature="e#5295#5756#0" />
+            <element signature="e#5821#5844#0" />
+            <element signature="e#5984#6007#0" />
+            <element signature="e#6078#6132#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="122" column="10" lean-forward="true" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
+        <state relative-caret-position="349">
+          <caret line="124" column="10" lean-forward="true" selection-start-line="124" selection-start-column="10" selection-end-line="124" selection-end-column="10" />
         </state>
       </provider>
     </entry>

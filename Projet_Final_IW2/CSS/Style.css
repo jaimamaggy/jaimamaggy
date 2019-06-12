@@ -275,3 +275,17 @@ header .overlay {
         font-size: 50px;
     }
 }
+
+@media screen and (max-width: 575px){
+    .formatxs
+    {
+        font-size: 50px;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 1199px) {
+    .formatmd
+    {
+        font-size: 50px;
+    }
+}
