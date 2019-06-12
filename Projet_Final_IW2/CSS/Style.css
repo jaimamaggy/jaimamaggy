@@ -261,3 +261,11 @@ header .overlay {
     color: #aad074;
     background-color: #ffdc0a;
 }
+
+
+@media screen and (max-width: 575px){
+    .iphone
+    {
+        font-size: 12px;
+    }
+}
