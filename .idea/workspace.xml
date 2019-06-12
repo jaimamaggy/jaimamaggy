@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdce70d2-80d2-43e1-bf7d-c3cc7229b517" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/seminaire2/bouton.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire2/carrousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire2/jumbotron.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/CSS/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/CSS/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./23092018b_sticker_autocollant_saint_jacques_de_compostelle_Hellostickers3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./Header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./Hero-spain-walking.adapt.1900.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./Portfolio-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./Portfolio-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./Portfolio-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./Portfolio-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./Portfolio-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./Portfolio-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./Saint-Jacques-de-Compostelle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./The_Way.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./logo2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./logo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./logo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/IMG./logo6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/JS/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/JS/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminaire3-4/recherche.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Han Solo 2/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Han Solo 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Han Solo 2/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Han Solo 2/HTML/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projet_Final_IW2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Final_IW2/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="265" column="7" selection-start-line="265" selection-start-column="7" selection-end-line="265" selection-end-column="7" />
+            <state relative-caret-position="510">
+              <caret line="270" column="1" lean-forward="true" selection-start-line="270" selection-start-column="1" selection-end-line="270" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -211,12 +183,12 @@
       <workItem from="1556840371209" duration="5000" />
       <workItem from="1556840391242" duration="43636000" />
       <workItem from="1558479928282" duration="8141000" />
-      <workItem from="1559404077555" duration="12786000" />
+      <workItem from="1559404077555" duration="12995000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100509000" />
+    <option name="totallyTimeSpent" value="100718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="799" extended-state="0" />
@@ -461,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/CSS/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="265" column="7" selection-start-line="265" selection-start-column="7" selection-end-line="265" selection-end-column="7" />
+        <state relative-caret-position="510">
+          <caret line="270" column="1" lean-forward="true" selection-start-line="270" selection-start-column="1" selection-end-line="270" selection-end-column="1" />
         </state>
       </provider>
     </entry>
