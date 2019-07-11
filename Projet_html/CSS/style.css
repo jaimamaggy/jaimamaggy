@@ -1,0 +1,90 @@
+
+
+.bgcolor {
+    background-color: #fe9677;
+    border-color: #fe9677;
+
+}
+
+.paddingZone2{
+    padding-top: 144px;
+    padding-bottom: 144px;
+    padding-left: 150px;
+    padding-right: 150px;
+
+
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+ .text {
+     color: #002752;
+ }
+
+
+
+
+.youtube {
+
+    align-items: center;
+}
+.text-yellow {
+    color:black;
+    padding-top: 50px;
+    font-family: Big_noodle;
+}
+
+
+hr{
+    padding-bottom:30px;
+    padding-top:30px;
+    max-width: 900px;
+    border-width: 5px;
+    border-color: #fe9677;
+}
+
+.padding{
+    padding-bottom:90px;
+}
+
+
+
+
+
+
+
+.cta {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: rgba(152, 64, 99, 0.9);
+}
+
+.cta .cta-inner {
+    position: relative;
+    padding: 3rem;
+    margin: 0.5rem;
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+.cta .cta-inner:before {
+    border-radius: 0.5rem;
+    content: '';
+    position: absolute;
+    top: -0.5rem;
+    bottom: -0.5rem;
+    left: -0.5rem;
+    right: -0.5rem;
+    border: 0.25rem solid rgba(255, 255, 255, 0.85);
+}
+
+
+
+.parallaxZone {
+    background-image: url("../img/Sangria_blanche.jpg");
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;

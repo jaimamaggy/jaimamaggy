@@ -263,23 +263,23 @@ header .overlay {
 }
 
 
-@media screen and (max-width: 575px){
+@media screen and (max-width: 575px) {
     .iphone
     {
-        font-size: 12px;
+        font-size: 80px;
     }
 }
 
 @media screen and (min-width: 576px) and (max-width: 1199px) {
     .ipad{
-        font-size: 50px;
+        font-size: 70px;
     }
 }
 
 @media screen and (max-width: 575px){
     .formatxs
     {
-        font-size: 40px;
+        font-size: 70px;
     }
 }
 
