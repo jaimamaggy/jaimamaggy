@@ -15,3 +15,5 @@ cube = nombre * nombre * nombre;
 //Les affichages
 alert("Le carre du nombre est : " + carre);
 console.log("Le cube du nombre est " + cube);
+
+alert("carre + ");
