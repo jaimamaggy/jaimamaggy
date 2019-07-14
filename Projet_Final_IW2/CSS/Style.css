@@ -45,10 +45,6 @@ html,body
 }
 
 
-.youtube {
-
-    align-items: center;
-}
 
 .text-yellow {
     color:black;
@@ -105,22 +101,14 @@ header .overlay {
     opacity: 0.5;
     z-index: 2;
 }
-
-@font-face {
-    font-family: Big_noodle;
-    src: url("../font/big_noodle_titling.ttf");
+.bg3 {
+    background-color: #fe9677;
+    opacity: 50%;
 }
 
-.Big_Noddle {
-    font-family: Big_noodle;
-}
-
-/*********************************************************
-    Navbar
-**********************************************************/
 
 .navbar {
-    background-color: #f7f1f2;
+    background-colorrgb: #f7f1f2;
 }
 .navbar .navbar-brand {
     color: #040404;
@@ -289,3 +277,4 @@ header .overlay {
         font-size: 30px;
     }
 }
+

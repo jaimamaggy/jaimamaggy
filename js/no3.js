@@ -10,8 +10,8 @@ var brut;
 
 
 //Lecture au clavier (l'usager entre une valeur)
-taux = number (prompt("Veuillez entrer votre taux horaire: "));
-heures = number (prompt("Veuillez entrer votre nombre d'heures travaillées: "));
+taux = Number (prompt("Veuillez entrer votre taux horaire: "));
+heures = Number (prompt("Veuillez entrer votre nombre d'heures travaillées: "));
 
 
 //Les calculs
@@ -19,4 +19,4 @@ brut = taux * heures;
 
 //Les affichages
 
-alert("votre slaire brut est de " + brut "$");
+alert("votre salaire brut est de " + brut +  "$");

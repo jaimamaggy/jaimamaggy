@@ -49,16 +49,227 @@ hr{
     padding-bottom:90px;
 }
 
+.jumbotron-fluid{
+    padding-top: 5rem;
+    padding-bottom: 5rem}
+
+.bg4{background-color: #fe9677
+}
+.bouton{
+    color: white;
+    background: rgb(65, 67, 106);
+    }
 
 
-
-
-
-
+.section3-2{padding-top: 70px}
 .cta {
     padding-top: 5rem;
     padding-bottom: 5rem;
     background-color: rgba(152, 64, 99, 0.9);
+}
+.parallaxZone2 {
+    background-image: url("../img/cocktail.jpg");
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;}
+
+
+.form-group{
+    padding-left: 150px;
+    padding-right: 150px;}
+
+
+.gmaps-frame {
+    width: 1900px;
+    height: 1000px;
+    border: 100px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    display: block;
+   }
+.question  {
+padding-top: 100px}
+
+
+.p{text-color: white}
+
+
+
+/* Cellulaires */
+@media only screen and (max-width: 575px){
+
+}
+/* TABLETTES */
+@media screen and (min-width: 576px) and (max-width: 1199px) {
+    .parallaxZone {
+        background-image: url("../img/3carousel.jpg");
+        height: 800px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+
+    .md {font-size: x-large}
+}
+
+@media screen and (min-width: 1200px) {
+
+}
+
+.navbar {
+    background-color: #f9f8f9;
+}
+.navbar .navbar-brand {
+    color: #41436a;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #984063;
+}
+.navbar .navbar-text {
+    color: #41436a;
+}
+.navbar .navbar-text a {
+    color: #984063;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #984063;
+}
+.navbar .navbar-nav .nav-link {
+    color: #41436a;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #984063;
+}
+.navbar .navbar-nav .dropdown-menu {
+    background-color: #f9f8f9;
+    border-color: #fe9677;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+    color: #41436a;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
+.navbar .navbar-nav .dropdown-menu .dropdown-item.active {
+    color: #984063;
+    background-color: #fe9677;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-divider {
+    border-top-color: #fe9677;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #984063;
+    background-color: #fe9677;
+}
+.navbar .navbar-toggle {
+    border-color: #fe9677;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #fe9677;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: #41436a;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: #41436a;
+}
+.navbar .navbar-link {
+    color: #41436a;
+}
+.navbar .navbar-link:hover {
+    color: #984063;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #41436a;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #984063;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #984063;
+        background-color: #fe9677;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #41436a;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #984063;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #984063;
+        background-color: #fe9677;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #41436a;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #984063;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #984063;
+        background-color: #fe9677;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #41436a;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #984063;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #984063;
+        background-color: #fe9677;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #41436a;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #984063;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #984063;
+    background-color: #fe9677;
+}
+/* XS*/
+@media only screen and (max-width: 575px){ ...
+}
+/* MD*/
+@media screen and (min-width: 576px) and (max-width: 1199px) { ...
+}
+@media screen and (min-width: 1200px) {
+
 }
 
 .cta .cta-inner {
@@ -66,7 +277,7 @@ hr{
     padding: 3rem;
     margin: 0.5rem;
     background-color: rgba(255, 255, 255, 0.85);
-}
+}-
 
 .cta .cta-inner:before {
     border-radius: 0.5rem;
@@ -80,7 +291,6 @@ hr{
 }
 
 
-
 .parallaxZone {
     background-image: url("../img/Sangria_blanche.jpg");
     height: 800px;
@@ -88,3 +298,7 @@ hr{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+
+
+
+
