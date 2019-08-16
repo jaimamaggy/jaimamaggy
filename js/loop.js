@@ -7,7 +7,7 @@
 var compteur = 0;
 
 while(compteur <100){
-    console.log("je maitrise les boucles");
+    console.log(compteur + "je maitrise les boucles");
 
     compteur = compteur + 1;
 }
