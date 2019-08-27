@@ -1,24 +1,28 @@
 //créer par maggy le 22-o8-2019
 
 $('#flashID').css("position","relative");
-var compteur=
+
 $('#boutonGauche').click(function() {
     $( "#flashID" ).css("left",50);
 });
 
 $('#boutonDroite').click(function() {
-    $('#flashID').css("left",50);
+    $('#flashID').css("left",-50);
 });
 
-$( "#" ).click(function() {
+//*$( "#boutonChangerImage" ).click(function() {
+   // var nomImage =
+    // $('#flashID').attr("src","flash2.jpg");
+//});
+
+$( "#boutonChangerImage" ).click(function() {
     var nomImage = $('#flashID').attr("src");
-    alert(nomImage);
-    if(nomImage === "medias/bg.jpg")
+    if(nomImage === "flash2.jpg")
     {
-        $('#flashID').attr("src","medias/sw.jpg");
+        $('#boutonChangerImage').attr("src","flash.jpg");
     }
     else
-        $('#flashID').attr("src","medias/bg.jpg");
+        $('#boutonChangerImage').attr("src","flash2.jpg");
 
 
 });
@@ -31,11 +35,18 @@ $("#boutonAjouterImage").click(function() {
     $('#flashID').show();
 });
 
-$(‘#boutonAjouterAttribut’).attr(“alt” , “photo de Flash”);
+$("#boutonAjouterAttribut").attr('alt' , 'photo de Flash');
 
 
 $("#boutonAjouterTitre").click(function() {
     $( 'body' ).prepend( "<h1>FLASH JQUERY</h1>" );
 });
 
+$("#boutonDupliquer").click(function() {
+    $( 'body' ).prepend('<img id="flashID" alt="photo de Flash" class="flashClass" src="flash.jpg" width="200px"/>'  );
 
+});
+
+$("#boutonRalentir").click(function() {
+    $( 'body' ).prepend('<img id="flashID" alt="photo de Flash" class="flashClass" src="flash.jpg" width="200px"/>'  );
+});
