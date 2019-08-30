@@ -1,9 +1,12 @@
 //créer par maggy le 22-o8-2019
 
 $('#flashID').css("position","relative");
+var compteur = 0;
+
 
 $('#boutonGauche').click(function() {
-    $( "#flashID" ).css("left",50);
+    compteur = compteur -50;
+    $( "#flashID" ).css("left",compteur);
 });
 
 $('#boutonDroite').click(function() {
@@ -19,12 +22,10 @@ $( "#boutonChangerImage" ).click(function() {
     var nomImage = $('#flashID').attr("src");
     if(nomImage === "flash2.jpg")
     {
-        $('#boutonChangerImage').attr("src","flash.jpg");
+        $('#flashID').attr("src","flash.jpg");
     }
     else
-        $('#boutonChangerImage').attr("src","flash2.jpg");
-
-
+        $('#flashID').attr("src","flash2.jpg");
 });
 
 $("#boutonEnleverImage").click(function() {
@@ -48,5 +49,13 @@ $("#boutonDupliquer").click(function() {
 });
 
 $("#boutonRalentir").click(function() {
-    $( 'body' ).prepend('<img id="flashID" alt="photo de Flash" class="flashClass" src="flash.jpg" width="200px"/>'  );
+    $( '#flashID' ).remove( );
 });
+
+$("#boutonTeleport").click(function() {
+    $('#flashID').toggle();
+    $('#flashID2').css("opacity",".9");
+
+});
+
+
