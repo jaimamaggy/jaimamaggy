@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cdce70d2-80d2-43e1-bf7d-c3cc7229b517" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flash/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flash/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flash/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Flash/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flash/js/evenements.js" beforeDir="false" afterPath="$PROJECT_DIR$/Flash/js/evenements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examen50/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examen50/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examen50/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examen50/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/js/bootstrap.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,28 +17,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Flash/Index.html">
+        <entry file="file://$PROJECT_DIR$/examen50/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            <state relative-caret-position="731">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flash/js/evenements.js">
+        <entry file="file://$PROJECT_DIR$/examen50/js/casseTete.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flash/css/style.css">
+        <entry file="file://$PROJECT_DIR$/examen50/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="45">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/CSS/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="24" selection-end-line="27" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -110,21 +120,21 @@
         <option value="$PROJECT_DIR$/Flash/js/deplacergauche.js" />
         <option value="$PROJECT_DIR$/index/js/no2.js" />
         <option value="$PROJECT_DIR$/Exercice jQuery1 StormTrooper 2/index.html" />
-        <option value="$PROJECT_DIR$/examen50/css/style.css" />
-        <option value="$PROJECT_DIR$/examen50/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/examen50/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/examen50/js/casseTete.js" />
-        <option value="$PROJECT_DIR$/examen50/index.html" />
         <option value="$PROJECT_DIR$/Flash/css/style.css" />
         <option value="$PROJECT_DIR$/Flash/Index.html" />
         <option value="$PROJECT_DIR$/Flash/js/evenements.js" />
+        <option value="$PROJECT_DIR$/examen50/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/examen50/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/examen50/index.html" />
+        <option value="$PROJECT_DIR$/examen50/css/style.css" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="799" />
@@ -145,19 +155,35 @@
             <path>
               <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
               <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
-              <item name="Flash" type="462c0819:PsiDirectoryNode" />
+              <item name="06_Exercice_Bootstrap_Grid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
               <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
-              <item name="Flash" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="06_Exercice_Bootstrap_Grid" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
               <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
-              <item name="Flash" type="462c0819:PsiDirectoryNode" />
+              <item name="06_Exercice_Bootstrap_Grid" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
+              <item name="examen50" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
+              <item name="examen50" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
+              <item name="Flash" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,18 +260,19 @@
       <workItem from="1565305089013" duration="6589000" />
       <workItem from="1565890910569" duration="3503000" />
       <workItem from="1565908457755" duration="8157000" />
-      <workItem from="1566513726779" duration="28919000" />
+      <workItem from="1566513726779" duration="29288000" />
+      <workItem from="1567720970829" duration="3141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202509000" />
+    <option name="totallyTimeSpent" value="206019000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="799" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="799" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.11874106" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.12017167" />
       <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.27968526" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -270,29 +297,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/if-02.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/no6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/loop4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -461,23 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examen50/js/jquery-3.3.1.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif_2/CSS/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4763" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen50/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen50/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projet_Final_IW2/JS/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -490,44 +477,13 @@
     <entry file="file://$PROJECT_DIR$/Exercice jQuery1 StormTrooper 2/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/examen50/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/examen50/img/img2.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen50/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examen50/js/casseTete.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sommatif_2/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projet_Final/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
           <caret line="95" column="11" lean-forward="true" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -561,10 +517,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Flash/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/AEC/Gestion de contenu /FormationWP/wp-content/themes/mtl375-perso/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sommatif_2/CSS/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35551">
+          <caret selection-end-line="10037" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen50/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150555">
+          <caret line="10037" column="41" selection-start-line="10037" selection-start-column="41" selection-end-line="10037" selection-end-column="41" />
+          <folding>
+            <element signature="e#36478#36712#2" expanded="true" />
+            <element signature="e#37633#37786#1" expanded="true" />
+            <element signature="e#37828#38062#1" expanded="true" />
+            <element signature="e#41501#41777#2" expanded="true" />
+            <element signature="e#42726#42879#1" expanded="true" />
+            <element signature="e#42921#43197#1" expanded="true" />
+            <element signature="e#78680#78867#2" expanded="true" />
+            <element signature="e#79128#79264#2" expanded="true" />
+            <element signature="e#79725#79858#2" expanded="true" />
+            <element signature="e#81622#81775#1" expanded="true" />
+            <element signature="e#97340#97570#2" expanded="true" />
+            <element signature="e#98606#98842#2" expanded="true" />
+            <element signature="e#136650#136827#2" expanded="true" />
+            <element signature="e#136884#137061#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sommatif_2/JS/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4435" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen50/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="4435" lean-forward="true" selection-start-line="4435" selection-end-line="4435" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen50/js/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Flash/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sommatif_2/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="28" lean-forward="true" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/CSS/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="24" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen50/js/casseTete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen50/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examen50/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
