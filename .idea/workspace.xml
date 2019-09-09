@@ -2,17 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdce70d2-80d2-43e1-bf7d-c3cc7229b517" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/examen50/img/img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/img/img1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen50/img/img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/img/img2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen50/img/img3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/img/img3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen50/img/img4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/img/img4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen50/img/img5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/img/img5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen50/img/img6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/img/img6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen50/img/img7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/img/img7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen50/img/img8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/img/img8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen50/img/img9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/img/img9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/JS/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/JS/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Exercise_Facebook/JS/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/07_Exercise_Facebook/JS/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice Parallax Thetford/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice Parallax Thetford/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice jQuery1 StormTrooper 2/Bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice jQuery1 StormTrooper 2/Bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice jQuery1 StormTrooper 2/Bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice jQuery1 StormTrooper 2/Bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice jQuery1 StormTrooper 2/Bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice jQuery1 StormTrooper 2/Bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice jQuery1 StormTrooper 2/Bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice jQuery1 StormTrooper 2/Bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flash/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Flash/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Final/JS/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Final/JS/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_Final_IW2/JS/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_Final_IW2/JS/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projet_html/JS/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Projet_html/JS/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sommatif_2/JS/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Sommatif_2/JS/bootstrap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examen50/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examen50/js/casseTete.js" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/js/casseTete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examen50/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/casseTete.js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examen50/js/casseTete.js" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/casseTete.js/casseTete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examen50/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/examen50/casseTete.js/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/index/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminaire2/JS/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/seminaire2/JS/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminaire3-4/JS/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/seminaire3-4/JS/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/vendor/jquery/jquery.slim.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,34 +42,16 @@
         <entry file="file://$PROJECT_DIR$/examen50/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examen50/js/casseTete.js">
+        <entry file="file://$PROJECT_DIR$/examen50/casseTete.js/casseTete.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flash/Index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flash/js/evenements.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1185">
-              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="45">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
             </state>
           </provider>
         </entry>
@@ -83,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html" />
         <option value="$PROJECT_DIR$/25mai/index.html" />
         <option value="$PROJECT_DIR$/seminaire2/jumbotron.html" />
         <option value="$PROJECT_DIR$/seminaire2/bouton.html" />
@@ -132,16 +129,17 @@
         <option value="$PROJECT_DIR$/examen50/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/examen50/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/examen50/css/style.css" />
-        <option value="$PROJECT_DIR$/examen50/index.html" />
         <option value="$PROJECT_DIR$/examen50/js/casseTete.js" />
+        <option value="$PROJECT_DIR$/examen50/index.html" />
+        <option value="$PROJECT_DIR$/examen50/casseTete.js/casseTete.js" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="173" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="799" />
   </component>
@@ -167,7 +165,7 @@
               <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
               <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
               <item name="examen50" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
@@ -256,18 +254,19 @@
       <workItem from="1565890910569" duration="3503000" />
       <workItem from="1565908457755" duration="8157000" />
       <workItem from="1566513726779" duration="29288000" />
-      <workItem from="1567720970829" duration="20460000" />
+      <workItem from="1567720970829" duration="21462000" />
+      <workItem from="1567996156744" duration="582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223338000" />
+    <option name="totallyTimeSpent" value="224922000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="799" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="799" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.12017167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.12160229" />
       <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.27968526" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -292,13 +291,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/loop2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/cours4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -524,7 +516,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examen50/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/examen50/casseTete.js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="652">
           <caret line="4435" lean-forward="true" selection-start-line="4435" selection-end-line="4435" />
@@ -534,7 +526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examen50/js/jquery-3.3.1.min.js">
+    <entry file="file://$PROJECT_DIR$/examen50/casseTete.js/jquery-3.3.1.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/06_Exercice_Bootstrap_Grid/HTML/index.html">
@@ -600,31 +592,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flash/js/evenements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flash/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash/js/evenements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/AEC/Gestion de contenu /excercisephp/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/examen50/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examen50/js/casseTete.js">
+    <entry file="file://$PROJECT_DIR$/examen50/casseTete.js/casseTete.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="45">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>

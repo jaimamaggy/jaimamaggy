@@ -24,7 +24,7 @@ $(".img-fluid").click(function() {
             deuxiemeImageSRC = this.src;
             $('#' + premiereImageID).attr("src",deuxiemeImageSRC);
             $('#' + deuxiemeImageID).attr("src",premierImageSRC);
-            $("#" + premiereImageID).show();
+            $('#' + premiereImageID).show();
     }
 
 
@@ -40,7 +40,7 @@ $( ".img-fluid" ).hover(function() {
 });
 
 
-//fonction victoire A-FAIRE
+//fonction victoire
 
 $("#victoire").append(function () {
     if ($("#1").attr("src") === "img/img1.jpg") ;
@@ -58,6 +58,12 @@ $("#victoire").append(function () {
 
 });
 
+
+
+
+
+
+
 //bouton recommencer
 $( "#boutonRecommencer" ).click(function() {
     $("#1").attr("src","img/img8.jpg");
@@ -71,7 +77,7 @@ $( "#boutonRecommencer" ).click(function() {
     $("#9").attr("src","img/img1.jpg");
 });
 
-//bouton tricher A-FAIRE
+//bouton tricher
 
 $( "#boutonTricher" ).click(function() {
     $('#victoire').show();

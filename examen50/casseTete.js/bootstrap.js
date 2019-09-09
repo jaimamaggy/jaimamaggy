@@ -4,8 +4,8 @@
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
   */
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('jquery'), require('popper.js')) :
-        typeof define === 'function' && define.amd ? define(['exports', 'jquery', 'popper.js'], factory) :
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('jquery'), require('popper.casseTete.js')) :
+        typeof define === 'function' && define.amd ? define(['exports', 'jquery', 'popper.casseTete.js'], factory) :
             (global = global || self, factory(global.bootstrap = {}, global.jQuery, global.Popper));
 }(this, function (exports, $, Popper) { 'use strict';
 
@@ -70,7 +70,7 @@
 
     /**
      * --------------------------------------------------------------------------
-     * Bootstrap (v4.3.1): util.js
+     * Bootstrap (v4.3.1): util.casseTete.js
      * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
@@ -1625,7 +1625,7 @@
 
                 if (showEvent.isDefaultPrevented()) {
                     return;
-                } // Disable totally Popper.js for Dropdown in Navbar
+                } // Disable totally Popper.casseTete.js for Dropdown in Navbar
 
 
                 if (!this._inNavbar) {
@@ -1634,7 +1634,7 @@
                      * Popper - https://popper.js.org
                      */
                     if (typeof Popper === 'undefined') {
-                        throw new TypeError('Bootstrap\'s dropdowns require Popper.js (https://popper.js.org/)');
+                        throw new TypeError('Bootstrap\'s dropdowns require Popper.casseTete.js (https://popper.casseTete.js.org/)');
                     }
 
                     var referenceElement = this._element;
@@ -1823,7 +1823,7 @@
                         preventOverflow: {
                             boundariesElement: this._config.boundary
                         }
-                    } // Disable Popper.js if we have a static display
+                    } // Disable Popper.casseTete.js if we have a static display
 
                 };
 
@@ -2431,7 +2431,7 @@
                 }
             } // ----------------------------------------------------------------------
             // the following methods are used to handle overflowing modals
-            // todo (fat): these should probably be refactored out of modal.js
+            // todo (fat): these should probably be refactored out of modal.casseTete.js
             // ----------------------------------------------------------------------
             ;
 
@@ -2612,7 +2612,7 @@
 
     /**
      * --------------------------------------------------------------------------
-     * Bootstrap (v4.3.1): tools/sanitizer.js
+     * Bootstrap (v4.3.1): tools/sanitizer.casseTete.js
      * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
@@ -2833,7 +2833,7 @@
                  * Popper - https://popper.js.org
                  */
                 if (typeof Popper === 'undefined') {
-                    throw new TypeError('Bootstrap\'s tooltips require Popper.js (https://popper.js.org/)');
+                    throw new TypeError('Bootstrap\'s tooltips require Popper.casseTete.js (https://popper.casseTete.js.org/)');
                 } // private
 
 
@@ -3526,7 +3526,7 @@
             };
 
             _proto.setContent = function setContent() {
-                var $tip = $(this.getTipElement()); // We use append for html objects to maintain js events
+                var $tip = $(this.getTipElement()); // We use append for html objects to maintain casseTete.js events
 
                 this.setElementContent($tip.find(Selector$7.TITLE), this.getTitle());
 
@@ -4394,7 +4394,7 @@
 
     /**
      * --------------------------------------------------------------------------
-     * Bootstrap (v4.3.1): index.js
+     * Bootstrap (v4.3.1): index.casseTete.js
      * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
@@ -4432,4 +4432,4 @@
     Object.defineProperty(exports, '__esModule', { value: true });
 
 }));
-//# sourceMappingURL=bootstrap.js.map
+//# sourceMappingURL=bootstrap.casseTete.js.map

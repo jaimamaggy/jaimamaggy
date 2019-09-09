@@ -54,7 +54,7 @@ function modules() {
   // jQuery
   var jquery = gulp.src([
       './node_modules/jquery/dist/*',
-      '!./node_modules/jquery/dist/core.js'
+      '!./node_modules/jquery/dist/core.casseTete.js'
     ])
     .pipe(gulp.dest('./vendor/jquery'));
   return merge(bootstrap, jquery);
