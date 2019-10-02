@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MassothérapieSM/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="265" column="55" lean-forward="true" selection-start-line="265" selection-start-column="55" selection-end-line="265" selection-end-column="55" />
+            <state relative-caret-position="419">
+              <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#form#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -27,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MassothérapieSM/css/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="695" column="23" lean-forward="true" selection-start-line="695" selection-start-column="23" selection-end-line="695" selection-end-column="23" />
+            <state relative-caret-position="-78">
+              <caret line="655" column="25" lean-forward="true" selection-start-line="655" selection-start-column="25" selection-end-line="655" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -62,9 +62,17 @@
       <find>bg</find>
       <find>body</find>
       <find>100</find>
-      <find>footer</find>
       <find>footer-link</find>
       <find>footer-ti</find>
+      <find>soins</find>
+      <find>mains</find>
+      <find>main</find>
+      <find>footer</find>
+      <find>footer-wi</find>
+      <find>social</find>
+      <find>support</find>
+      <find>footer-suppo</find>
+      <find>footer-support</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/MassothérapieSM</dir>
@@ -125,8 +133,8 @@
         <option value="$PROJECT_DIR$/MassothérapieSM/js/js.js" />
         <option value="$PROJECT_DIR$/test/index.html" />
         <option value="$PROJECT_DIR$/test/index.js" />
-        <option value="$PROJECT_DIR$/MassothérapieSM/index.html" />
         <option value="$PROJECT_DIR$/MassothérapieSM/css/Style.css" />
+        <option value="$PROJECT_DIR$/MassothérapieSM/index.html" />
       </list>
     </option>
   </component>
@@ -241,12 +249,12 @@
       <workItem from="1567720970829" duration="21462000" />
       <workItem from="1567996156744" duration="582000" />
       <workItem from="1567997149968" duration="234000" />
-      <workItem from="1569364836175" duration="25033000" />
+      <workItem from="1569364836175" duration="26356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250189000" />
+    <option name="totallyTimeSpent" value="251512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="799" extended-state="0" />
@@ -602,22 +610,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MassothérapieSM/css/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="655" column="25" lean-forward="true" selection-start-line="655" selection-start-column="25" selection-end-line="655" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MassothérapieSM/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="265" column="55" lean-forward="true" selection-start-line="265" selection-start-column="55" selection-end-line="265" selection-end-column="55" />
+        <state relative-caret-position="419">
+          <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#form#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MassothérapieSM/css/Style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="695" column="23" lean-forward="true" selection-start-line="695" selection-start-column="23" selection-end-line="695" selection-end-column="23" />
         </state>
       </provider>
     </entry>
