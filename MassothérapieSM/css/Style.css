@@ -158,7 +158,7 @@ img {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    padding: 15px;
+    padding: 30px;
     background: #f3f3ee;
 
 }
@@ -231,7 +231,7 @@ img {
 
 
 
-/*------------------------------------------------------------------
+/*
 [ Input ]*/
 
 .wrap-input100 {
@@ -334,7 +334,7 @@ textarea.input100 {
 
 
 
-/*------------------------------------------------------------------
+/*
 [ Button ]*/
 .container-contact100-form-btn {
     width: 100%;
@@ -381,7 +381,7 @@ textarea.input100 {
 
 
 
-/*------------------------------------------------------------------
+/*
 [ Responsive ]*/
 
 @media (max-width: 992px) {
@@ -422,7 +422,7 @@ textarea.input100 {
 }
 
 
-/*------------------------------------------------------------------
+/*
 [ Alert validate ]*/
 
 .validate-input {
@@ -628,6 +628,9 @@ textarea.input100 {
         width: 144px; } }
 .single-pricing.enterprise .pricing-flower img {
     width: 100%; }
+
+
+
 /*===========================
        7.FOOTER css
 ===========================*/
@@ -647,12 +650,7 @@ textarea.input100 {
 .footer-h6 {
     font-size: 20px;
     font-weight: 700;
-    line-height: 100px;
     color: #ffffff;
-    left: 50%;
-    border-radius: 50px;
-    padding: 0 24px;
-    border: 0;
 }
 .footer-link {
     margin-top: 30px;
@@ -676,6 +674,8 @@ textarea.input100 {
     border: 0;
     background-color: rgba(33, 33, 33, 0.12);
     font-weight: 500; }
+
+
 .footer-newsletter .newsletter input::placeholder {
     opacity: 1;
     color: #ffffff; }
@@ -685,6 +685,10 @@ textarea.input100 {
 .footer-newsletter .newsletter input::-webkit-input-placeholder {
     opacity: 1;
     color: #ffffff; }
+
+
+
+
 .footer-newsletter .newsletter button {
     position: absolute;
     top: 0;
@@ -727,16 +731,16 @@ textarea.input100 {
     line-height: 50px;
     border-radius: 50%;
     text-align: center;
-    background-color: #0067f4;
     bottom: 10px;
-    right: 20px;
     z-index: 999;
-    color: #fff;
+    color: #5B7163;
     font-size: 20px;
     -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
     -moz-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
-    display: none; }
+}
+
+
 .back-to-top:hover {
     background-color: #005ad5;
     color: #fff; }
