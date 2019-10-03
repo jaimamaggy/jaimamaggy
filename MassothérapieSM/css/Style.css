@@ -202,8 +202,13 @@ img {
     background: rgba(91, 113, 99, 0.8);
 }
 
-
-
+.dis-flex{
+    margin-top: 15px;
+    color: white;
+}
+.text-color{
+    color: white;
+}
 /*==================================================================
 [ Form ]*/
 
