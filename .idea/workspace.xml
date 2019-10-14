@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cdce70d2-80d2-43e1-bf7d-c3cc7229b517" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/MassothérapieSM/css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/MassothérapieSM/css/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MassothérapieSM/img/reflexo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MassothérapieSM/img/reflexo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MassothérapieSM/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MassothérapieSM/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MassothérapieSM/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/MassothérapieSM/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templatemo_421_raleway/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templatemo_421_raleway/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,29 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MassothérapieSM/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="121" column="41" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
+            <state relative-caret-position="519">
+              <caret line="134" column="51" selection-start-line="134" selection-start-column="51" selection-end-line="134" selection-end-column="51" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MassothérapieSM/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
             </state>
           </provider>
         </entry>
@@ -46,8 +38,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MassothérapieSM/css/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11783">
-              <caret line="830" column="22" selection-start-line="830" selection-start-column="22" selection-end-line="830" selection-end-column="22" />
+            <state relative-caret-position="430">
+              <caret line="344" column="10" selection-start-line="344" selection-start-column="10" selection-end-line="344" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MassothérapieSM/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="642">
+              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
             </state>
           </provider>
         </entry>
@@ -55,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flash/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            <state relative-caret-position="225">
+              <caret line="15" column="78" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -64,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flash/js/evenements.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="213">
               <caret line="46" lean-forward="true" selection-start-line="43" selection-end-line="46" />
             </state>
           </provider>
@@ -171,10 +172,10 @@
         <option value="$PROJECT_DIR$/test/index.html" />
         <option value="$PROJECT_DIR$/test/index.js" />
         <option value="$PROJECT_DIR$/templatemo_421_raleway/index.html" />
-        <option value="$PROJECT_DIR$/MassothérapieSM/css/Style.css" />
         <option value="$PROJECT_DIR$/Flash/js/evenements.js" />
-        <option value="$PROJECT_DIR$/MassothérapieSM/index.html" />
+        <option value="$PROJECT_DIR$/MassothérapieSM/css/Style.css" />
         <option value="$PROJECT_DIR$/MassothérapieSM/js/index.js" />
+        <option value="$PROJECT_DIR$/MassothérapieSM/index.html" />
       </list>
     </option>
   </component>
@@ -204,6 +205,12 @@
               <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
               <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
               <item name="Flash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jaimamaggy" type="462c0819:PsiDirectoryNode" />
+              <item name="Flash" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jaimamaggy" type="b2602c69:ProjectViewProjectNode" />
@@ -338,12 +345,12 @@
       <workItem from="1567720970829" duration="21462000" />
       <workItem from="1567996156744" duration="582000" />
       <workItem from="1567997149968" duration="234000" />
-      <workItem from="1569364836175" duration="63158000" />
+      <workItem from="1569364836175" duration="65918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288314000" />
+    <option name="totallyTimeSpent" value="291074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="6" />
@@ -374,29 +381,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/examen50/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150555">
-          <caret line="10037" column="41" selection-start-line="10037" selection-start-column="41" selection-end-line="10037" selection-end-column="41" />
-          <folding>
-            <element signature="e#36478#36712#2" expanded="true" />
-            <element signature="e#37633#37786#1" expanded="true" />
-            <element signature="e#37828#38062#1" expanded="true" />
-            <element signature="e#41501#41777#2" expanded="true" />
-            <element signature="e#42726#42879#1" expanded="true" />
-            <element signature="e#42921#43197#1" expanded="true" />
-            <element signature="e#78680#78867#2" expanded="true" />
-            <element signature="e#79128#79264#2" expanded="true" />
-            <element signature="e#79725#79858#2" expanded="true" />
-            <element signature="e#81622#81775#1" expanded="true" />
-            <element signature="e#97340#97570#2" expanded="true" />
-            <element signature="e#98606#98842#2" expanded="true" />
-            <element signature="e#136650#136827#2" expanded="true" />
-            <element signature="e#136884#137061#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sommatif_2/JS/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -684,47 +668,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Flash/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/MassothérapieSM/css/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11783">
-          <caret line="830" column="22" selection-start-line="830" selection-start-column="22" selection-end-line="830" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MassothérapieSM/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="121" column="41" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state relative-caret-position="430">
+          <caret line="344" column="10" selection-start-line="344" selection-start-column="10" selection-end-line="344" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Flash/js/evenements.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="213">
           <caret line="46" lean-forward="true" selection-start-line="43" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="78" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="78" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MassothérapieSM/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        <state relative-caret-position="642">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MassothérapieSM/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="134" column="51" selection-start-line="134" selection-start-column="51" selection-end-line="134" selection-end-column="51" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
