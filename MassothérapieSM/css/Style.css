@@ -1,3 +1,5 @@
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+[ Accueil ]*/
 .paddingZoneaccueil{
     padding-top: 144px;
     padding-bottom: 144px;
@@ -25,6 +27,97 @@
     width: 100%;
     height: 100%;
 }
+
+
+/***********************************[ Responsive ]*********************************************************/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .pricing-area {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        margin-top: 50px;} }
+
+@media (max-width: 767px) {
+    .pricing-area {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        margin-top: 50px;} }
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .single-pricing .pricing-header .price {
+        font-size: 50px;
+        margin-top: 16px;
+        margin-bottom: 16px;} }
+
+@media (max-width: 767px) {
+    .single-pricing .pricing-header .price {
+        font-size: 50px;
+        margin-top: 16px;
+        margin-bottom: 16px;} }
+
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .single-pricing .pricing-header .price {
+        font-size: 64px;
+        margin-top: 32px;
+        margin-bottom: 16px;} }
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .single-pricing.enterprise .pricing-flower {
+        width: 110px;
+        margin-bottom: 16px;
+        margin-top: 50px;} }
+
+@media (max-width: 767px) {
+    .single-pricing.enterprise .pricing-flower {
+        width: 110px;
+        margin-bottom: 16px;
+        margin-top: 50px;} }
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .single-pricing.enterprise .pricing-flower {
+        width: 144px;
+        margin-bottom: 16px;
+        margin-top: 50px;} }
+
+
+
+
+@media (max-width: 992px) {
+    .imgAccueil {
+        filter: blur(3px);
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        width: 100%;
+
+
+    }
+
+}
+
+@media (max-width: 768px) {
+    margin-top: 50px;
+}
+
+@media (max-width: 576px) {
+    margin-top: 50px;
+}
+
+.text-soin {
+    background-color: #5b7163;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+[ À propos ]*/
 .paddingZoneapropos{
     padding-top: 100px;
     padding-bottom: 100px;
@@ -39,9 +132,37 @@
 }
 
 
+/*
+[ Responsive ]*/
+
+@media (max-width: 992px) {
+    .about {
+        display: none;
+    }
 
 
-/*//////////////////////////////////////////////////////////////////
+}
+
+@media (max-width: 768px) {
+    .about {
+        display: none;
+    }
+}
+
+@media (max-width: 576px) {
+    .about {
+        display: none;
+    }
+}
+@media (max-width: 1024px) {
+    .about {
+        display: none;
+    }
+}
+
+
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 [ NAVBAR ]*/
 .navgition {
     padding: 10px 0;
@@ -298,7 +419,7 @@
     width: 100%; }
 
 
-/*//////////////////////////////////////////////////////////////////
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 [ SOINS ]*/
 
 
@@ -351,14 +472,7 @@
 
 
 
-
-
-
-
-
-
-
-/*//////////////////////////////////////////////////////////////////
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 [ Contact ]*/
 
 .container-contact100 {
@@ -709,9 +823,9 @@ textarea.input100 {
     }
 }
 
-/*===========================
-      Atelier css
-===========================*/
+/*=======================================================================================================================================
+                                                        Atelier
+=======================================================================================================================================*/
 .img-pricing{
     border-radius: 50%
 }
@@ -722,14 +836,8 @@ textarea.input100 {
     padding-top: 120px;
     padding-bottom: 120px;
     background-color: #f3f3ee; }
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-    .pricing-area {
-        padding-top: 100px;
-        padding-bottom: 100px; } }
-@media (max-width: 767px) {
-    .pricing-area {
-        padding-top: 80px;
-        padding-bottom: 80px; } }
+
+
 
 .single-pricing {
     -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -768,18 +876,7 @@ textarea.input100 {
     line-height: 80px;
     margin-top: 32px;
     color: #f3f3ee; }
-@media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .single-pricing .pricing-header .price {
-        font-size: 50px;
-        margin-top: 16px; } }
-@media (max-width: 767px) {
-    .single-pricing .pricing-header .price {
-        font-size: 50px;
-        margin-top: 16px; } }
-@media only screen and (min-width: 576px) and (max-width: 767px) {
-    .single-pricing .pricing-header .price {
-        font-size: 64px;
-        margin-top: 32px; } }
+
 .single-pricing .pricing-header .year {
     font-size: 20px;
     font-weight: 500;
@@ -793,18 +890,7 @@ textarea.input100 {
     line-height: 24px;
     color: #f3f3ee;
     margin-top: 16px; }
-@media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .single-pricing .pricing-list ul li {
-        font-size: 14px;
-        margin-top: 12px; } }
-@media (max-width: 767px) {
-    .single-pricing .pricing-list ul li {
-        font-size: 14px;
-        margin-top: 12px; } }
-@media only screen and (min-width: 576px) and (max-width: 767px) {
-    .single-pricing .pricing-list ul li {
-        font-size: 16px;
-        margin-top: 16px; } }
+
 .single-pricing .pricing-list ul li i {
     color: #0067f4;
     margin-right: 8px; }
@@ -836,23 +922,88 @@ textarea.input100 {
     top: 10px;
     left: 10px;
     width: 144px; }
-@media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .single-pricing.enterprise .pricing-flower {
-        width: 110px; } }
-@media (max-width: 767px) {
-    .single-pricing.enterprise .pricing-flower {
-        width: 110px; } }
-@media only screen and (min-width: 576px) and (max-width: 767px) {
-    .single-pricing.enterprise .pricing-flower {
-        width: 144px; } }
+
+
 .single-pricing.enterprise .pricing-flower img {
     width: 100%; }
 
 
+/*****************************************************[ Responsive ]*******************************************************************/
 
-/*===========================
-       7.FOOTER css
-===========================*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .pricing-area {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        margin-top: 50px;} }
+
+@media (max-width: 767px) {
+    .pricing-area {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        margin-top: 50px;} }
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .single-pricing .pricing-header .price {
+        font-size: 50px;
+        margin-top: 16px;
+        margin-bottom: 16px;} }
+
+@media (max-width: 767px) {
+    .single-pricing .pricing-header .price {
+        font-size: 50px;
+        margin-top: 16px;
+        margin-bottom: 16px;} }
+
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .single-pricing .pricing-header .price {
+        font-size: 64px;
+        margin-top: 32px;
+        margin-bottom: 16px;} }
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .single-pricing.enterprise .pricing-flower {
+        width: 110px;
+        margin-bottom: 16px;
+        margin-top: 50px;} }
+
+@media (max-width: 767px) {
+    .single-pricing.enterprise .pricing-flower {
+        width: 110px;
+        margin-bottom: 16px;
+        margin-top: 50px;} }
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .single-pricing.enterprise .pricing-flower {
+        width: 144px;
+        margin-bottom: 16px;
+        margin-top: 50px;} }
+
+
+
+
+@media (max-width: 992px) {
+    .single-pricing {
+        margin-top: 50px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    margin-top: 50px;
+}
+
+@media (max-width: 576px) {
+    margin-top: 50px;
+    }
+
+
+/*=======================================================================================================================================
+                                                      7.FOOTER css
+=======================================================================================================================================*/
 .footer-area {
     background-color: #e0c3af; }
 
