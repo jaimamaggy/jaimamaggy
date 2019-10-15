@@ -100,3 +100,6 @@ $("#Suédois").click(function() {
 $("#Réflexo").click(function() {
     $( '#droite' ).attr( "La grossesse est un moment dans la vie où le corps change et où peuvent survenir des malaises et des inconforts physiques. Cette période peut amener avec elle un lot de questions et d'émotions chez la future mère. La massothérapie peut représenter un moyen de se détendre et de soulager ces maux afin de bien vivre sa grossesse." );
 });
+
+
+//Get the button:
