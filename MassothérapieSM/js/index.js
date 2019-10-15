@@ -87,9 +87,6 @@ $parent.on("click",function(e){
 // Soins --------------------------------------------------------------------------------------------------------------
 
 
-$("#enceinte").click(function() {
-    $( '#droite' ).attr( "La grossesse est un moment dans la vie où le corps change et où peuvent survenir des malaises et des inconforts physiques. Cette période peut amener avec elle un lot de questions et d'émotions chez la future mère. La massothérapie peut représenter un moyen de se détendre et de soulager ces maux afin de bien vivre sa grossesse." );
-});
 
 $("#Enfant").click(function() {
     $( '#droite' ).attr( "La grossesse est un moment dans la vie où le corps change et où peuvent survenir des malaises et des inconforts physiques. Cette période peut amener avec elle un lot de questions et d'émotions chez la future mère. La massothérapie peut représenter un moyen de se détendre et de soulager ces maux afin de bien vivre sa grossesse." );
@@ -101,5 +98,7 @@ $("#Réflexo").click(function() {
     $( '#droite' ).attr( "La grossesse est un moment dans la vie où le corps change et où peuvent survenir des malaises et des inconforts physiques. Cette période peut amener avec elle un lot de questions et d'émotions chez la future mère. La massothérapie peut représenter un moyen de se détendre et de soulager ces maux afin de bien vivre sa grossesse." );
 });
 
+("#enceinte").click(function() {
+    $( '#droite' ).html( "<p>Voici le nouveau texte, on peut meme mettre des balises ici.</p>");
 
 //Get the button:
